@@ -1,7 +1,6 @@
 ---
 title: Could a Land Value Tax work in the UK?
 date: 2024-11-12 20:14 +0000
-author: Alex Learoyd
 categories: [Policy, Economics]
 tags: [georgism]
 ---
