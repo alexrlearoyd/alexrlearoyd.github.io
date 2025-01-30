@@ -39,17 +39,15 @@ github:
   username: alexrlearoyd # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: twitter_username  # Replace with your actual Twitter username
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Alex Learoyd
-  email: alexrlearoyd@icloud.com # change to your email address
+  name: Alex Learoyd  # This sets your name as the default author
+  email: alex-Learoyd@icloud.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://x.com/Jkanderfan # change to your Twitter homepage
-    - https://github.com/alexrlearoyd # change to your GitHub homepage
+    - https://x.com/Jkanderfan
+    - https://github.com/alex-Learoyd
+    # Add other links here
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
