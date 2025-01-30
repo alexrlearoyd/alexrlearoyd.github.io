@@ -47,6 +47,9 @@ social:
     # https://www.facebook.com/ahmed.tremo
     # https://www.linkedin.com/in/ahmedtremo
 
+  theme_config:
+    show_author: true
+
 google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
