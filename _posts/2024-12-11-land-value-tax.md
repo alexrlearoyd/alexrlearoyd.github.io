@@ -3,7 +3,6 @@ title: Could a Land Value Tax work in the UK?
 date: 2024-11-12 20:14 +0000
 categories: [Policy, Economics, Politics]
 tags: [georgism]
-author: Alex
 ---
 
 ![Desktop View](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a59da58-33ac-40d1-acc4-681a2f802e4f_2600x1560.jpeg)
