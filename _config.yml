@@ -12,6 +12,14 @@ url: "https://alexrlearoyd.github.io"
 permalink: /blog/:title/
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Europe/London
+# _config.yml
+theme: jekyll-theme-chirpy
+
+# Excerpt separator (critical!)
+excerpt_separator: <!--more-->
+
+# Permalinks (Chirpy's default)
+permalink: /posts/:title/
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
