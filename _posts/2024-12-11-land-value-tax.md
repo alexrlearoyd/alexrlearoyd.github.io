@@ -6,18 +6,18 @@ tags: [georgism]
 author: Alex
 ---
 
-![Desktop View](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a59da58-33ac-40d1-acc4-681a2f802e4f_2600x1560.jpeg){: width="500"}
+![Desktop View](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a59da58-33ac-40d1-acc4-681a2f802e4f_2600x1560.jpeg)
 _Are these pledges, milestones, missions, foundations, pillars, or targets? You tell me_
 
 It would be an understatement to say that Labour has found themselves struggling with the British finances since they took power in July. First, it was the £22 billion black hole. Second, it was the dispute about what constitutes a tax on ‘working people’. Thirdly, Labour currently is facing an ongoing dispute over the farmer’s inheritance tax adjustment. Britain has become an increasingly frugal state over the previous decade - a far cry from the naughties, under New Labour, where spending on the NHS and education increased by large amounts every year, all while the government was running a net surplus. Growth in the UK has become increasingly stagnant, and despite the best efforts of several governments, has not seemed to budge. With an NHS and pension system that ticks closer and closer to implosion with an aging population, it is increasingly clear that bold action must be taken. This series of articles is dedicated to exploring possible policies that could be used to fix the UK economy - examining their strengths and possible weaknesses, and assessing their practicality of implementation. This first article will cover Land Value Taxes, but future articles will cover alternative policies.
 
 Land Value Taxes are not to be confused with council taxes, that tax property. Property taxes tax what’s built on land, while LVTs tax what’s under it. The amount of money that the tax could raise is still considerable. For the estimations, I will be using 2020 Census ONS figures. The ONS estimates that the total value of land underlying dwellings in the UK is £5.4 trillion (this does not include recreational areas, so that there would be no huge taxes levied on parks). Therefore, a 1% LVT could raise £54 billion - to understand how much finance this could raise, simply compare it relative to other state finance items:
 
-This is about double the amount raised by council taxes, and business rates each
+- This is about double the amount raised by council taxes, and business rates each
 
-Around half the size of the total yearly state pension
+- Around half the size of the total yearly state pension
 
-Over three times the size raised by capital gains and inheritance tax combined
+- Over three times the size raised by capital gains and inheritance tax combined
 
 That all goes to show that LVTs are very effective at raising funds. But all this really shows is how much the tax burden can increase, which all could be achieved by raising income taxes, NI taxes, VAT, etc. (even if Labour have ruled out these taxes). The question is then - could LVT improve the efficiency of the tax system?
 
@@ -39,31 +39,31 @@ As previously mentioned, LVTs have been proposed before in the UK. In 2021, foll
 
 Coming up with a comprehensive LVT proposal in the UK is difficult, for multiple reasons. Firstly, it is difficult to decide what type of LVT would even be necessary - do we need an LVT simply designed to replace other taxes, as was suggested in 2021, or a tax designed to raise new funds - that could be used to pay down the national debt or invest in public services. Any tax would have to be squarely focused at replacing current tax channels, rather than more ‘tax and spend’ policy. Hence, policies must address the following issues, that I have tried to base loosely on the Labour government’s ‘milestones’:
 
-Redistributing the tax burden away from ‘working people’, and addressing productivity issues
+# 1. Redistributing the tax burden away from ‘working people’, and addressing productivity issues
 
 Currently, the tax burden is unfairly squared towards businesses and those who actively contribute to the economy, a directive that discourages that discourages growth, by incentivising non-productivity and unemployment. Currently, employed people pay at least 20% income taxes and national insurance contributions, while unemployed pay nothing in direct tax. This dynamic is partially necessary for the existence of a strong social safety net to prevent excessive welfare losses in society, but currently it is negatively impacting productivity in the UK - with current generations increasingly suffering from a productivity crisis that is being subsidised by the state. Changes in the tax code are necessary to deal with this problem. The Labour Party have already investigated these issues in the ‘Get Britain Working’ Policy Paper, and the alterations in tax code alongside proposals in the paper would help to incentivise productivity in the UK.
 
-Proposal: cut the base rate of income tax by 5% (£32 bn), half the rate of council tax (£15 bn). Totals to £47 bn, which could be funded through a 0.89% LVT.
+# Proposal: cut the base rate of income tax by 5% (£32 bn), half the rate of council tax (£15 bn). Totals to £47 bn, which could be funded through a 0.89% LVT.
 
 For a family with two parents who both work earning £30000, who also own £230000 in land with total property valued at £500000, the cuts in taxes would save them a combined £3497, and the LVT would cost them £2047. The net savings would be £1446.
 
-Providing tax relief for business
+# 2. Providing tax relief for business
 
 As previously mentioned, taxes on businesses are currently too high, and are restricting enterprise opportunities and opportunities for much needed growth. Corporation taxes have been raised repeatedly in the last years, and the current system of business rates actively discourage physical locations for startup businesses. Reforming business rates is a much needed step to encourage enterprise in Britain and to encourage investment. Business rates were measured as collecting £29 billion in 2019; and similar figures can be assumed to be collected now.
 
-Proposal: abolish business rates. Replace the funds to councils by Westminster administered taxes (£28 bn). Remove stamp duty for businesses (£3 bn) and cut in half for residential buyers (£6bn). Totals to £37 bn, which would be funded through an LVT of 0.7%.
+# Proposal: abolish business rates. Replace the funds to councils by Westminster administered taxes (£28 bn). Remove stamp duty for businesses (£3 bn) and cut in half for residential buyers (£6bn). Totals to £37 bn, which would be funded through an LVT of 0.7%.
 
-A need for capital investment
+# 3. A need for capital investment
 
 The need for new British investment has become increasingly more apparent as time goes on, with NHS waiting times and train tickets costs have massively increased over the last decades. A Land Value Tax will decrease the cost of acquiring land for new infrastructure projects (as well as increasing willingness for land to be sold by private individuals). Funds obtained must then be put forth to build new, green infrastructure, and to be put forth into other worthwhile investments.
 
-Proposal: revive Labour’s green investment fund plan through investments into Great British Energy (£28 bn). Triple the amount paid into the recently set up National Wealth Fund (£14 bn). Totals to £42 bn, which could be funded through an LVT of 0.77%.
+# Proposal: revive Labour’s green investment fund plan through investments into Great British Energy (£28 bn). Triple the amount paid into the recently set up National Wealth Fund (£14 bn). Totals to £42 bn, which could be funded through an LVT of 0.77%.
 
-Strengthening the UK’s debt situation
+# 4. Strengthening the UK’s debt situation
 
 The UK has reached record borrowing levels over the last year, and the total national debt has eclipsed 100% of GDP. The level of debt is not set to start decreasing until the 2030s, and by that point the country will be forced to make budget cuts due to the level of interest paid on bonds. The government must therefore seek to reduce the deficit in any proposals made.
 
-Proposal: reduce the UK budget deficit by 10% by raising an additional £12 bn in tax revenue. Could be funded with a 0.28% LVT.
+# Proposal: reduce the UK budget deficit by 10% by raising an additional £12 bn in tax revenue. Could be funded with a 0.28% LVT.
 
 If you wished to combine all these proposals, they could be financed with a 2.64% LVT.
 
