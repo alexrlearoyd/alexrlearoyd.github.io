@@ -4,7 +4,6 @@ date: 2025-2-28 14:14 +0000
 categories: [Policy, Productivity]
 tags: [UK, Politics, Economics]
 ---
-
 Now that the storm of coronavirus and inflation seem to be calming, the flatline in UK productivity looks to be the issue that captures the attention of the UK economic community. However, the productivity crisis is an issue that has really been around for a lot longer than the ‘new’ issue it is sometimes treated as.
 
 [](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb515a691-b066-4f71-86a0-6da2546d1c8b_717x501.png)
