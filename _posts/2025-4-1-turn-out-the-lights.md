@@ -2,7 +2,7 @@
 title: Will the Last Person to Leave Britain Please Turn out the Lights
 date: 2025-4-1 13:00 +0000
 categories: [Policy, Economics]
-tags: []
+tags: [UK, Economy]
 ---
 
 ![Desktop View](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9178a034-e390-481e-9e7f-c67ac60e695d_280x390.webp)
